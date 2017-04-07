@@ -1,8 +1,23 @@
 [
     {
+        "name": "AARP",
+        "logoFileName": "aarp",
+        "background": "#ffffff"
+    },
+    {
+        "name": "Ace Hardware",
+        "logoFileName": "ace-hardware",
+        "background": "#d32535"
+    },
+    {
         "name": "Advance Auto Parts",
         "logoFileName": "advance-auto-parts",
         "background": "#ed1e30"
+    },
+    {
+        "name": "Aeropostale",
+        "logoFileName": "aeropostale",
+        "background": "#0b4c82"
     },
     {
         "name": "American Eagle Outfitters",
@@ -20,9 +35,19 @@
         "background": "#9c9c9c"
     },
     {
+        "name": "Bass Pro Shops",
+        "logoFileName": "bass-pro-shops",
+        "background": "#6c5c4f"
+    },
+    {
         "name": "Best Buy",
         "logoFileName": "best-buy",
         "background": "#005186"
+    },
+    {
+        "name": "Big Lots",
+        "logoFileName": "big-lots",
+        "background": "#000000"
     },
     {
         "name": "CVS Pharmacy",
